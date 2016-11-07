@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Cấu trúc điều khiển">
+      <UniqueIdentifier>{27fbb18a-978c-4d57-8a43-57d940c2fc05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Biến và các thao tác">
+      <UniqueIdentifier>{daca9d59-fe60-4e97-af34-34db22cb760d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Mảng">
+      <UniqueIdentifier>{72ef27e8-0e30-4680-9f51-92cc8d06b8b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Con trỏ">
+      <UniqueIdentifier>{d877d4a8-3afc-4b3f-a3d2-3e1d09c2aaa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DayNhauHoc">
+      <UniqueIdentifier>{d4eb6286-37d0-4170-81b3-f62528b3674d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Vietjack">
+      <UniqueIdentifier>{29558f68-cd77-4949-a84d-542459cbe3ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CongDongCViet">
+      <UniqueIdentifier>{12131ae1-c6df-4ebf-8c02-4f49f70b69b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Phụ Lục">
+      <UniqueIdentifier>{51faf902-2d46-4ba1-a757-2e4e666d2f96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++11 và C++14">
+      <UniqueIdentifier>{9026bd03-ee19-4ae0-b04c-3942d9e24db1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Break-Continue.cpp">
+      <Filter>Source Files\Cấu trúc điều khiển</Filter>
+    </ClCompile>
+    <ClCompile Include="DoWhile.cpp">
+      <Filter>Source Files\Cấu trúc điều khiển</Filter>
+    </ClCompile>
+    <ClCompile Include="switch…case.cpp">
+      <Filter>Source Files\Cấu trúc điều khiển</Filter>
+    </ClCompile>
+    <ClCompile Include="NhapXuatCoBan.cpp">
+      <Filter>Source Files\Biến và các thao tác</Filter>
+    </ClCompile>
+    <ClCompile Include="BienStatic.cpp">
+      <Filter>Source Files\Biến và các thao tác</Filter>
+    </ClCompile>
+    <ClCompile Include="Toán Tử - Độ Ưu Tiên.cpp">
+      <Filter>Source Files\Biến và các thao tác</Filter>
+    </ClCompile>
+    <ClCompile Include="Thao Tác Trên Mảng 1 Chiều.cpp">
+      <Filter>Source Files\Mảng</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer Trong C++.cpp">
+      <Filter>Source Files\Con trỏ</Filter>
+    </ClCompile>
+    <ClCompile Include="Con Trỏ Hàm.cpp">
+      <Filter>Source Files\Con trỏ</Filter>
+    </ClCompile>
+    <ClCompile Include="Con Trỏ Hàm2.cpp">
+      <Filter>Source Files\Con trỏ</Filter>
+    </ClCompile>
+    <ClCompile Include="ThamChieuReference.cpp">
+      <Filter>Source Files\Con trỏ</Filter>
+    </ClCompile>
+    <ClCompile Include="Bài 64 - Function Overloading.cpp">
+      <Filter>Source Files\DayNhauHoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Con trỏ tới lớp.cpp">
+      <Filter>Source Files\Vietjack</Filter>
+    </ClCompile>
+    <ClCompile Include="Bài 71 - Virtual Function.cpp">
+      <Filter>Source Files\DayNhauHoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Bài 76 - Container[Vector] Phần 2.cpp">
+      <Filter>Source Files\DayNhauHoc</Filter>
+    </ClCompile>
+    <ClCompile Include="CallBack.cpp">
+      <Filter>Source Files\CongDongCViet</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11 - Lambda.cpp">
+      <Filter>Source Files\C++11 và C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputDebugString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11 - Lambda2.cpp">
+      <Filter>Source Files\C++11 và C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14 - Generic Lambda.cpp">
+      <Filter>Source Files\C++11 và C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11 - OOP - override.cpp">
+      <Filter>Source Files\C++11 và C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="Trả về con trỏ từ hàm trong C++.cpp">
+      <Filter>Source Files\Vietjack</Filter>
+    </ClCompile>
+    <ClCompile Include="Contructor và Destructor trong C++.cpp">
+      <Filter>Source Files\Vietjack</Filter>
+    </ClCompile>
+    <ClCompile Include="Bộ nhớ động trong C++.cpp">
+      <Filter>Source Files\Vietjack</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
